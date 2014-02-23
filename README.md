@@ -1,5 +1,5 @@
-Nin API - Your personal API
-===========================
+Nin API - All About You
+=======================
 
 About Nin
 ---------
