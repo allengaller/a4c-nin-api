@@ -1,9 +1,19 @@
-Nin API - Your personal API for others
-======================================
+Nin API - Your personal API
+===========================
 
-A toolset for human-oriented API. 
+About Nin
+---------
+NinAPI 是个人用户画像的API工具。经过用户的隐私设定后，它可以让第三方网站一键获取用户的完整的个人信息，这包括社交账户，喜好，个性，足迹等。
 
-您接口 - 一人一个API
-====================
+Features
+--------
 
-一键获取您的完整生活.
+* Social Network Account: Facebook, Twitter, Weibo, Google Plus, LinkedIn.
+* Physical Information: Height, Weight, Shape, Ages, Gender, Sexual Orientation.
+* Personal Life: Hobby, Interests, etc.
+* Professional Life: Programmer Skill Sets, Accounting Skill Sets, etc.
+
+About
+-----
+apps4coder
+
